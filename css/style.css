@@ -1,0 +1,30 @@
+.nav{
+
+}
+.nav-item:nth-child(1){
+    width: 250px;
+    height: 200px;
+    background-color: blue;
+    background-image: url();
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.nav-item:nth-child(2){
+    background-color: rgb(255, 0, 0);
+    background-image: url();
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.nav-item:nth-child(3){
+    background-color: rgb(0, 255, 13);
+    background-image: url();
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.nav-item{
+    width: 250px;
+    height: 200px;
+}
